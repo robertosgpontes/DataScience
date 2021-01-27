@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dataset/mec/microdados_eficiencia_academica_2020.csv
+dataset/mec/microdados_eficiencia_academica_2018.csv
