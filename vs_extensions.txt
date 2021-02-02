@@ -1,0 +1,6 @@
+Visual Studio Code
+
+Instalar Extensões da Microsoft
+ * Jupiter
+ * Python
+ * Pylance
